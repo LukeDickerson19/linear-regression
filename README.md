@@ -1,4 +1,4 @@
-# linear-regression
+# Linear Regression
 
 This code uses a linear regression algorithm for stock market predictions, using both the sklearn library (linear_regression1.py), and also uses linear regression for predicting the y value of arbitrary 2 dimensional data by making the algorithm from scratch (linear_regression2.py).
 
